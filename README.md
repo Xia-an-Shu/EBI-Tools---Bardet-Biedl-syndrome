@@ -1,1 +1,11 @@
-# EBI-Tools---Bardet-Biedl-syndrome
+# EBI-Tools-Bardet-Biedl-syndrome
+
+Bardet-Biedl syndrome (BBS) is a rare heterogeneous genetic disease associated with hyperphagia (central obesity), mental delays, renal dysfunction, hypogonadism, and cone-rod dystrophy. However, new clinical conditions affecting patients have been found, such as neurological, communication, and language dysfunctions, facial dysmorphia, and dental anomalies (Beales et al., 1999).
+
+Additionally, this disease causes ciliopathy expressed in multiple body systems such as the muscular and visual systems, and its main causative genes (BBS1 to BBS10) also contribute to the occurrence of other syndromes like Joubert syndrome, which is also multisystemic. Therefore, its multisystemic variability and impact on other genes could help find better treatments for different individuals affected by these syndromes. Similarly, since it is a slowly progressing disease, symptoms usually appear at around nine years of age on average, by which point the disease will have advanced significantly (Beales et al., 1999). Thus, understanding how various patterns contribute to this phenotypic variability could help improve diagnoses.
+
+In particular, the research question can be addressed using various EBI tools. Initially, a literature review on Bardet-Biedl syndrome in general and the specific genes associated with this disease is necessary; for this, the Europe PMC tool is used. At this stage, it is also important to review the background to identify previously explored aspects and what might cause the observed phenotypic variability according to the literature.
+
+Additionally, at this initial stage, Ensembl is useful for finding information about the phenotypes associated with this syndrome and exploring details about related genes, such as their genomic location, structure, and known genetic variants. More in-depth, Ensembl is also helpful through its Pathways section and the Variant Effect Predictor (VEP), as these tools allow the examination of gene interactions in specific pathways associated with the disease and predict the potential effects of identified variants.
+
+On the other hand, ENA complements the previous search of genes by allowing the download or access to the complete sequences of the genes, which is useful for further analysis with other tools like AlphaFold. Moreover, ENA allows exploration of the available sequences for different variants of each gene, which is helpful in identifying variations in exons or other regions that might influence gene function.
